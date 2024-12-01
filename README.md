@@ -1,4 +1,4 @@
-# Mistal_ai
+# Mistal_ai_bot
 
 ## Описание
 
